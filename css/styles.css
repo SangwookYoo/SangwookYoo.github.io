@@ -2449,7 +2449,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #9f4e2f;
+  background-color: #4B89DC;
   border-color: #964a2c;
   box-shadow: 0 0 0 0.2rem rgba(199, 117, 86, 0.5);
 }
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #1262CD;
 }
 
 @media (min-width: 992px) {
